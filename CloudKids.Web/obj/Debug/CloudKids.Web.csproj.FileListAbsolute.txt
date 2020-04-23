@@ -1,0 +1,923 @@
+C:\Users\elgho\documents\visual studio 2015\Projects\CloudKids.Console\CloudKids.Web\bin\CloudKids.Web.dll.config
+C:\Users\elgho\documents\visual studio 2015\Projects\CloudKids.Console\CloudKids.Web\bin\CloudKids.Web.dll
+C:\Users\elgho\documents\visual studio 2015\Projects\CloudKids.Console\CloudKids.Web\bin\CloudKids.Web.pdb
+C:\Users\elgho\documents\visual studio 2015\Projects\CloudKids.Console\CloudKids.Web\bin\Antlr3.Runtime.dll
+C:\Users\elgho\documents\visual studio 2015\Projects\CloudKids.Console\CloudKids.Web\bin\EntityFramework.dll
+C:\Users\elgho\documents\visual studio 2015\Projects\CloudKids.Console\CloudKids.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\elgho\documents\visual studio 2015\Projects\CloudKids.Console\CloudKids.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\elgho\documents\visual studio 2015\Projects\CloudKids.Console\CloudKids.Web\bin\Newtonsoft.Json.dll
+C:\Users\elgho\documents\visual studio 2015\Projects\CloudKids.Console\CloudKids.Web\bin\System.Web.Helpers.dll
+C:\Users\elgho\documents\visual studio 2015\Projects\CloudKids.Console\CloudKids.Web\bin\System.Web.Mvc.dll
+C:\Users\elgho\documents\visual studio 2015\Projects\CloudKids.Console\CloudKids.Web\bin\System.Web.Optimization.dll
+C:\Users\elgho\documents\visual studio 2015\Projects\CloudKids.Console\CloudKids.Web\bin\System.Web.Razor.dll
+C:\Users\elgho\documents\visual studio 2015\Projects\CloudKids.Console\CloudKids.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\elgho\documents\visual studio 2015\Projects\CloudKids.Console\CloudKids.Web\bin\System.Web.WebPages.dll
+C:\Users\elgho\documents\visual studio 2015\Projects\CloudKids.Console\CloudKids.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\elgho\documents\visual studio 2015\Projects\CloudKids.Console\CloudKids.Web\bin\WebGrease.dll
+C:\Users\elgho\documents\visual studio 2015\Projects\CloudKids.Console\CloudKids.Web\bin\System.Web.Helpers.xml
+C:\Users\elgho\documents\visual studio 2015\Projects\CloudKids.Console\CloudKids.Web\bin\System.Web.Mvc.xml
+C:\Users\elgho\documents\visual studio 2015\Projects\CloudKids.Console\CloudKids.Web\bin\System.Web.Optimization.xml
+C:\Users\elgho\documents\visual studio 2015\Projects\CloudKids.Console\CloudKids.Web\bin\System.Web.Razor.xml
+C:\Users\elgho\documents\visual studio 2015\Projects\CloudKids.Console\CloudKids.Web\bin\System.Web.WebPages.xml
+C:\Users\elgho\documents\visual studio 2015\Projects\CloudKids.Console\CloudKids.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\elgho\documents\visual studio 2015\Projects\CloudKids.Console\CloudKids.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\elgho\documents\visual studio 2015\Projects\CloudKids.Console\CloudKids.Web\bin\Antlr3.Runtime.pdb
+C:\Users\elgho\documents\visual studio 2015\Projects\CloudKids.Console\CloudKids.Web\bin\Newtonsoft.Json.xml
+C:\Users\elgho\documents\visual studio 2015\Projects\CloudKids.Console\CloudKids.Web\bin\EntityFramework.xml
+C:\Users\elgho\documents\visual studio 2015\Projects\CloudKids.Console\CloudKids.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\elgho\documents\visual studio 2015\Projects\CloudKids.Console\CloudKids.Web\obj\Debug\CloudKids.Web.csprojResolveAssemblyReference.cache
+C:\Users\elgho\documents\visual studio 2015\Projects\CloudKids.Console\CloudKids.Web\obj\Debug\CloudKids.Web.dll
+C:\Users\elgho\documents\visual studio 2015\Projects\CloudKids.Console\CloudKids.Web\obj\Debug\CloudKids.Web.pdb
+C:\Users\elgho\documents\visual studio 2015\Projects\CloudKids.Console\CloudKids.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\elgho\documents\visual studio 2015\Projects\CloudKids.Console\CloudKids.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\CloudKids.Web.dll.config
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\CloudKids.Web.dll
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\CloudKids.Web.pdb
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\Antlr3.Runtime.dll
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\CloudKids.Data.dll
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\CloudKids.Domain.dll
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\CloudKids.Service.dll
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\EntityFramework.dll
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\Microsoft.Owin.dll
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\Newtonsoft.Json.dll
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\Owin.dll
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\System.Web.Helpers.dll
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\System.Web.Mvc.dll
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\System.Web.Optimization.dll
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\System.Web.Razor.dll
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\System.Web.WebPages.dll
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\WebGrease.dll
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\CloudKids.Data.pdb
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\CloudKids.Domain.pdb
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\CloudKids.Service.pdb
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\EntityFramework.xml
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\Microsoft.Owin.xml
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\System.Web.Helpers.xml
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\System.Web.Mvc.xml
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\System.Web.Optimization.xml
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\System.Web.Razor.xml
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\System.Web.WebPages.xml
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\Antlr3.Runtime.pdb
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\bin\Newtonsoft.Json.xml
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\obj\Debug\CloudKids.Web.csprojResolveAssemblyReference.cache
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\obj\Debug\CloudKids.Web.dll
+C:\Users\elgho\Documents\kindergarten\CloudKids.Web\obj\Debug\CloudKids.Web.pdb
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\CloudKids.Web.dll.config
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\CloudKids.Web.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\CloudKids.Web.pdb
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Antlr3.Runtime.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\CloudKids.Data.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\CloudKids.Domain.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\CloudKids.Service.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\EntityFramework.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Newtonsoft.Json.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Owin.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Web.Helpers.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Web.Mvc.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Web.Optimization.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Web.Razor.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Web.WebPages.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\WebGrease.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\CloudKids.Data.pdb
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\CloudKids.Domain.pdb
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\CloudKids.Service.pdb
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\EntityFramework.xml
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.xml
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Web.Helpers.xml
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Web.Mvc.xml
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Web.Optimization.xml
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Web.Razor.xml
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Web.WebPages.xml
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Antlr3.Runtime.pdb
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Newtonsoft.Json.xml
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\obj\Debug\CloudKids.Web.csprojResolveAssemblyReference.cache
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\obj\Debug\CloudKids.Web.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\obj\Debug\CloudKids.Web.pdb
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\CloudKids.Web.dll.config
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\CloudKids.Web.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\CloudKids.Web.pdb
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Antlr3.Runtime.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\CloudKids.Data.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\CloudKids.Domain.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\CloudKids.Service.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\EntityFramework.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Newtonsoft.Json.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Owin.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\System.Web.Helpers.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\System.Web.Mvc.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\System.Web.Optimization.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\System.Web.Razor.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\System.Web.WebPages.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\WebGrease.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\CloudKids.Data.pdb
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\CloudKids.Domain.pdb
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\CloudKids.Service.pdb
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\EntityFramework.xml
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.xml
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\System.Web.Helpers.xml
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\System.Web.Mvc.xml
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\System.Web.Optimization.xml
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\System.Web.Razor.xml
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\System.Web.WebPages.xml
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Antlr3.Runtime.pdb
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Newtonsoft.Json.xml
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\obj\Debug\CloudKids.Web.csprojResolveAssemblyReference.cache
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\obj\Debug\CloudKids.Web.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\obj\Debug\CloudKids.Web.pdb
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Bootstrapper.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Ninject.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Ninject.Web.Mvc.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Unity.Abstractions.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Unity.Container.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\WebActivatorEx.dll
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Ninject.xml
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.xml
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Ninject.Web.Mvc.xml
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Unity.Abstractions.pdb
+C:\Users\ayaha\Desktop\kindergarten\CloudKids.Web\bin\Unity.Container.pdb
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Bootstrapper.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Ninject.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Ninject.Web.Mvc.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Unity.Abstractions.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Unity.Container.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\WebActivatorEx.dll
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Ninject.xml
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.xml
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Ninject.Web.Mvc.xml
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Unity.Abstractions.pdb
+C:\Users\ayaha\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Unity.Container.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\CloudKids.Web.dll.config
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\CloudKids.Web.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\CloudKids.Web.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Antlr3.Runtime.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\CloudKids.Data.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\CloudKids.Domain.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\CloudKids.Service.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\EntityFramework.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Newtonsoft.Json.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Owin.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Web.Helpers.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Web.Mvc.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Web.Optimization.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Web.Razor.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Web.WebPages.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\WebGrease.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\CloudKids.Data.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\CloudKids.Domain.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\CloudKids.Service.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\EntityFramework.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Web.Helpers.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Web.Mvc.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Web.Optimization.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Web.Razor.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Web.WebPages.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Antlr3.Runtime.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Newtonsoft.Json.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\obj\Debug\CloudKids.Web.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\obj\Debug\CloudKids.Web.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\obj\Debug\CloudKids.Web.pdb
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\CloudKids.Web.dll.config
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\CloudKids.Web.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\CloudKids.Web.pdb
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Antlr3.Runtime.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\CloudKids.Data.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\CloudKids.Domain.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\CloudKids.Service.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\EntityFramework.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Newtonsoft.Json.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Owin.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\System.Web.Helpers.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\System.Web.Mvc.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\System.Web.Optimization.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\System.Web.Razor.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\System.Web.WebPages.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\WebGrease.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\CloudKids.Data.pdb
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\CloudKids.Domain.pdb
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\CloudKids.Service.pdb
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\EntityFramework.xml
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.xml
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\System.Web.Helpers.xml
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\System.Web.Mvc.xml
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\System.Web.Optimization.xml
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\System.Web.Razor.xml
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\System.Web.WebPages.xml
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Newtonsoft.Json.xml
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\obj\Debug\CloudKids.Web.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\obj\Debug\CloudKids.Web.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\obj\Debug\CloudKids.Web.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\AWSSDK.Core.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\AWSSDK.S3.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\AWSSDK.Core.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\AWSSDK.Core.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\AWSSDK.S3.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\AWSSDK.S3.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\CloudKids.Web.dll.config
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\CloudKids.Web.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\CloudKids.Web.pdb
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\Antlr3.Runtime.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\AWSSDK.Core.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\AWSSDK.S3.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\CloudKids.Data.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\CloudKids.Domain.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\CloudKids.Service.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\EntityFramework.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\Microsoft.Owin.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\Newtonsoft.Json.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\Owin.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\System.Web.Helpers.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\System.Web.Mvc.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\System.Web.Optimization.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\System.Web.Razor.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\System.Web.WebPages.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\WebGrease.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\CloudKids.Data.pdb
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\CloudKids.Domain.pdb
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\CloudKids.Service.pdb
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\AWSSDK.Core.pdb
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\AWSSDK.Core.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\AWSSDK.S3.pdb
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\AWSSDK.S3.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\EntityFramework.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\Microsoft.Owin.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\System.Web.Helpers.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\System.Web.Mvc.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\System.Web.Optimization.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\System.Web.Razor.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\System.Web.WebPages.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\bin\Newtonsoft.Json.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\obj\Debug\CloudKids.Web.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\obj\Debug\CloudKids.Web.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier\kindergarten\CloudKids.Web\obj\Debug\CloudKids.Web.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Bootstrapper.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Ninject.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Ninject.Web.Mvc.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Unity.Abstractions.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Unity.Container.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\WebActivatorEx.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Ninject.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Ninject.Web.Mvc.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Unity.Abstractions.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\Unity.Container.pdb
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\CloudKids.Web.dll.config
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\CloudKids.Web.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\CloudKids.Web.pdb
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Antlr3.Runtime.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\AWSSDK.Core.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\AWSSDK.S3.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Bootstrapper.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\CloudKids.Data.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\CloudKids.Domain.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\CloudKids.Service.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\EntityFramework.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Newtonsoft.Json.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Ninject.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Ninject.Web.Mvc.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Owin.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\System.Web.Helpers.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\System.Web.Mvc.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\System.Web.Optimization.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\System.Web.Razor.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\System.Web.WebPages.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Unity.Abstractions.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Unity.Container.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\WebActivatorEx.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\WebGrease.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\CloudKids.Data.pdb
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\CloudKids.Domain.pdb
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\CloudKids.Service.pdb
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\AWSSDK.Core.pdb
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\AWSSDK.Core.xml
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\AWSSDK.S3.pdb
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\AWSSDK.S3.xml
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\EntityFramework.xml
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.xml
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Ninject.xml
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.xml
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Ninject.Web.Mvc.xml
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\System.Web.Helpers.xml
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\System.Web.Mvc.xml
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\System.Web.Optimization.xml
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\System.Web.Razor.xml
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\System.Web.WebPages.xml
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Unity.Abstractions.pdb
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Unity.Container.pdb
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Antlr3.Runtime.pdb
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\bin\Newtonsoft.Json.xml
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\obj\Debug\CloudKids.Web.csprojResolveAssemblyReference.cache
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\obj\Debug\CloudKids.Web.dll
+C:\Users\riadh\Desktop\kindergarten\CloudKids.Web\obj\Debug\CloudKids.Web.pdb
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\AWSSDK.Core.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\AWSSDK.S3.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Bootstrapper.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Ninject.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Ninject.Web.Mvc.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Unity.Abstractions.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Unity.Container.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\WebActivatorEx.dll
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\AWSSDK.Core.pdb
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\AWSSDK.Core.xml
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\AWSSDK.S3.pdb
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\AWSSDK.S3.xml
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Ninject.xml
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.xml
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Ninject.Web.Mvc.xml
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Unity.Abstractions.pdb
+C:\Users\Ahmed Abdessamed\Desktop\kindergarten\CloudKids.Web\bin\Unity.Container.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\PayPal.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten\CloudKids.Web\bin\PayPal.xml
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\CloudKids.Web.dll.config
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\CloudKids.Web.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\CloudKids.Web.pdb
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Antlr3.Runtime.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\AWSSDK.Core.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\AWSSDK.S3.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Bootstrapper.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\CloudKids.Data.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\CloudKids.Domain.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\CloudKids.Service.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\EntityFramework.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Microsoft.Owin.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Newtonsoft.Json.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Ninject.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Ninject.Web.Mvc.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Owin.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\PayPal.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\System.Web.Helpers.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\System.Web.Mvc.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\System.Web.Optimization.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\System.Web.Razor.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\System.Web.WebPages.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Unity.Abstractions.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Unity.Container.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\WebActivatorEx.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\WebGrease.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\CloudKids.Data.pdb
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\CloudKids.Domain.pdb
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\CloudKids.Service.pdb
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\AWSSDK.Core.pdb
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\AWSSDK.Core.xml
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\AWSSDK.S3.pdb
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\AWSSDK.S3.xml
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\EntityFramework.xml
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Microsoft.Owin.xml
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Newtonsoft.Json.xml
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Ninject.xml
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.xml
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Ninject.Web.Mvc.xml
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\PayPal.xml
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\System.Web.Helpers.xml
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\System.Web.Mvc.xml
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\System.Web.Optimization.xml
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\System.Web.Razor.xml
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\System.Web.WebPages.xml
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Unity.Abstractions.pdb
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Unity.Container.pdb
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\obj\Debug\CloudKids.Web.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\obj\Debug\CloudKids.Web.dll
+C:\Users\Ahmed Abdessamed\Desktop\PI\kindergarten\CloudKids.Web\obj\Debug\CloudKids.Web.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\CloudKids.Web.dll.config
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\CloudKids.Web.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\CloudKids.Web.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Antlr3.Runtime.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\AWSSDK.Core.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\AWSSDK.S3.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Bootstrapper.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\CloudKids.Data.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\CloudKids.Domain.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\CloudKids.Service.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\EntityFramework.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Microsoft.Owin.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Newtonsoft.Json.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Ninject.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Ninject.Web.Mvc.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Owin.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\PayPal.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\System.Web.Helpers.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\System.Web.Mvc.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\System.Web.Optimization.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\System.Web.Razor.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\System.Web.WebPages.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Unity.Abstractions.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Unity.Container.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\WebActivatorEx.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\WebGrease.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\CloudKids.Data.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\CloudKids.Domain.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\CloudKids.Service.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\AWSSDK.Core.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\AWSSDK.Core.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\AWSSDK.S3.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\AWSSDK.S3.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\EntityFramework.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Microsoft.Owin.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Newtonsoft.Json.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Ninject.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Ninject.Web.Mvc.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\PayPal.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\System.Web.Helpers.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\System.Web.Mvc.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\System.Web.Optimization.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\System.Web.Razor.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\System.Web.WebPages.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Unity.Abstractions.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Unity.Container.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\bin\Antlr3.Runtime.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\obj\Debug\CloudKids.Web.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\obj\Debug\CloudKids.Web.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\kindergarten ahmed as\kindergarten\CloudKids.Web\obj\Debug\CloudKids.Web.pdb
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\CloudKids.Web.dll.config
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\CloudKids.Web.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\CloudKids.Web.pdb
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Antlr3.Runtime.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\AWSSDK.Core.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\AWSSDK.S3.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Bootstrapper.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\CloudKids.Data.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\CloudKids.Domain.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\CloudKids.Service.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\EntityFramework.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Microsoft.Owin.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Newtonsoft.Json.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Ninject.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Ninject.Web.Mvc.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Owin.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\PayPal.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\System.Web.Helpers.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\System.Web.Mvc.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\System.Web.Optimization.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\System.Web.Razor.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\System.Web.WebPages.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Unity.Abstractions.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Unity.Container.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\WebActivatorEx.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\WebGrease.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\CloudKids.Data.pdb
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\CloudKids.Domain.pdb
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\CloudKids.Service.pdb
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\AWSSDK.Core.pdb
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\AWSSDK.Core.xml
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\AWSSDK.S3.pdb
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\AWSSDK.S3.xml
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\EntityFramework.xml
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Microsoft.Owin.xml
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Newtonsoft.Json.xml
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Ninject.xml
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.xml
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Ninject.Web.Mvc.xml
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\PayPal.xml
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\System.Web.Helpers.xml
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\System.Web.Mvc.xml
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\System.Web.Optimization.xml
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\System.Web.Razor.xml
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\System.Web.WebPages.xml
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Unity.Abstractions.pdb
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Unity.Container.pdb
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\obj\Debug\CloudKids.Web.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\obj\Debug\CloudKids.Web.dll
+C:\Users\Ahmed Abdessamed\Desktop\tt\kindergarten\CloudKids.Web\obj\Debug\CloudKids.Web.pdb
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\CloudKids.Web.dll.config
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\CloudKids.Web.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\CloudKids.Web.pdb
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Antlr3.Runtime.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\AWSSDK.Core.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\AWSSDK.S3.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Bootstrapper.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\CloudKids.Data.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\CloudKids.Domain.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\CloudKids.Service.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\EntityFramework.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Microsoft.Owin.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Newtonsoft.Json.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Ninject.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Ninject.Web.Mvc.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Owin.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\PayPal.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\System.Web.Helpers.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\System.Web.Mvc.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\System.Web.Optimization.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\System.Web.Razor.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\System.Web.WebPages.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Unity.Abstractions.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Unity.Container.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\WebActivatorEx.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\WebGrease.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\CloudKids.Data.pdb
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\CloudKids.Domain.pdb
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\CloudKids.Service.pdb
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\AWSSDK.Core.pdb
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\AWSSDK.Core.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\AWSSDK.S3.pdb
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\AWSSDK.S3.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\EntityFramework.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Microsoft.Owin.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Newtonsoft.Json.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Ninject.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Ninject.Web.Mvc.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\PayPal.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\System.Web.Helpers.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\System.Web.Mvc.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\System.Web.Optimization.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\System.Web.Razor.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\System.Web.WebPages.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Unity.Abstractions.pdb
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Unity.Container.pdb
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\obj\Debug\CloudKids.Web.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\obj\Debug\CloudKids.Web.dll
+C:\Users\Ahmed Abdessamed\Desktop\Nouveau dossier (2)\kindergarten\CloudKids.Web\obj\Debug\CloudKids.Web.pdb
